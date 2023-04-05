@@ -1,0 +1,35 @@
+#EXTINF:-1 group-title="OTHER MOVIES",KOREAN MOVIES
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel%3D618%26ads.wurl_name%3DNewMovies%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+
+#EXTINF:-1 group-title="OTHER MOVIES",NEW KOREAN MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=HJNpAsLWteW2_Q7vbySW&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 group-title="OTHER MOVIES",MOVIES Forgein
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+
+#EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN MOVIES
+http://210.210.155.35/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",CCM
+http://210.210.155.35/qwr9ew/s/s31/01.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",Celestial Movies HD
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC Action
+http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC Action Movie
+http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC Home Cinema
+http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC HD Movies
+http://live.cooltv.top/tv/aishang.php?id=chcgqdy
